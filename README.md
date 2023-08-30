@@ -1,9 +1,6 @@
 # DevOpsSeg-e-AWS
-Repositório de estudos sobre AWS 
+Repositório de estudos sobre AWS e Linux 
 
-## Dia 23/08
-- [X] Inicio do desenvolvimento da Tarefa Teorica em dupla com o colega Claudio a partir das 15:00 
+## Atividade Teórica - Linux
 
-## Dia 24/08
-- [X] Continuação do desenvolvimento da Tarefa Teorica em dupla com o colega Claudio 
-
+[Atividade Teórica - Linux](https://github.com/AnaMaria27/DevSegOps-e-AWS/blob/master/Linux%20-%20Atividade%20Te%C3%B3ria/AtividadeTeoricaLinux_AnaEClaudio.pptx)
